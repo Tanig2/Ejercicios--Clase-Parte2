@@ -15,3 +15,6 @@ Mi alias en la página es Tanig2.
 
 #ALUMNO QUE HA CREADO EL REPOSITORIO:
 	Mi nombre es Tania Gómez García y soy alumna del primer curso de FP Superior de Desarrollo de Aplicaciones Web.
+
+:):) Estoy modificando otra vez el fichero para la práctica de Entornos. 
+Ya queda menos!!

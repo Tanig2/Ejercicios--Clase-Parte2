@@ -1,0 +1,35 @@
+#Al sincronizar el repositorio voy a ignorar las copias con extension
+*.bak
+
+#Y tambien los archivos con extensión
+*.class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
